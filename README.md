@@ -2,7 +2,7 @@
     <a href="https://github.com/Wenmoux"><img alt="Author" src="https://img.shields.io/badge/author-Wenmoux-blueviolet"/></a>
     <img alt="PHP" src="https://img.shields.io/badge/code-javascript-success"/>
     <img src="https://github-visitor-badge.glitch.me/badge?page_id=Wenmoux.V2ex-Auto-Sign"/>
-</p>
+</p>    
 
 # <font color="red">遇到签到失败就去v2ex退出账号并重新登陆再抓取ck,并更新cookie！！！</font>
 
